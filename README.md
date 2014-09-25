@@ -1,13 +1,13 @@
-myo-ue4
-=======
+MyoPlugin
+=========
 
 A Myo Plugin for Unreal Engine 4.
 
 ## Quick Setup ##
 1. Create new or open a project. 
 2. Browse to your project (typically found at *Documents/Unreal Project/{Your Project Root}*)
-3. Copy *Plugins* folder into your Project root.
-4. Copy *Binaries* folder into your Project root.
+3. Copy the root of your reopistory into {Your Project Root}\Plugins\MyoPlugin folder.
+4. Download from Releases and copy the *Binaries* folder into your Project root.
 5. Restart the Editor and open your project again.
 6. Select Window->Plugins. Click on Installed and you should see a category called Input and a plugin called Myo Plugin now available. Select Enabled. The Editor will warn you to restart, click restart.
 7. When your project has reloaded, the plugin should be enabled and ready to use. 
